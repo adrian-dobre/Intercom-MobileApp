@@ -22,8 +22,7 @@ Note: It will NOT forward audio to/from device.
 
 The solution is composed from 3 components:
 
-1. A device that interfaces with the Electra device
-   - [see this page](https://github.com/adrian-dobre/Nano33IoT-Electra-Intercom)
+1. A device that interfaces with the Electra device - [see this page](https://github.com/adrian-dobre/Nano33IoT-Electra-Intercom)
 
 2. An application server - [see this page](https://github.com/adrian-dobre/Intercom-Server)
 
