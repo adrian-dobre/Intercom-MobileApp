@@ -1,11 +1,11 @@
-# Electra PAS.17A Smart Intercom Adapter - (Flutterbased ) Mobile Application
+# Electra PAS.17A Smart Intercom Adapter - (Flutter-based ) Mobile Application
 
 ## Special thanks to [Nicolae Simpalean for inspiration](https://simpalean.site/interfon/)
 
 You can contact him for a ready made solution adapted to you, which you can install yourself or have
 Mr. Simpalean send you a new device that "just works" :)
 If, however you like DIY work and have time on your hands, you can stay here and read a bit :) and
-use these resources free of change :).
+use these resources free of charge :).
 
 If you like my work, and want to give something back, you can
 also [Buy me a beer](https://www.paypal.com/donate/?hosted_button_id=LH4JS85SDZPKN)
