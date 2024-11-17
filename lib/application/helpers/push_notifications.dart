@@ -19,7 +19,7 @@ class PushNotifications {
           sound: true);
 
       if (settings.authorizationStatus != AuthorizationStatus.authorized) {
-        throw Exception("Push Notification not enabled");
+        throw Exception("Push Notifications not enabled");
       }
 
       await messaging.setForegroundNotificationPresentationOptions(
