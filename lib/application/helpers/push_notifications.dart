@@ -3,7 +3,7 @@ import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 
 class PushNotifications {
-  static Future<String> setup() async {
+  static Future<String?> setup() async {
     try {
       await Firebase.initializeApp();
       FirebaseMessaging messaging = FirebaseMessaging.instance;
@@ -74,7 +74,7 @@ class PushNotifications {
         }
       });
 
-      return notificationToken!;
+      return notificationToken;
     } catch (e) {
       throw Exception("Push Notifications are disabled");
     }
